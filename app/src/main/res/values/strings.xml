@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Mobile Magazine</string>
+    <string name="txt_login">LOGIN</string>
+    <string name="txt_registration">REGISTER</string>
+
+    <string name="username">Please enter username</string>
+    <string name="password">Please enter your password</string>
+    <string name="login_button">Login</string>
+
+    <string name="txt_reset">Forget password?</string>
+    <string name="reset_password">click here to reset</string>
+    <string name="email_address">Email address</string>
+    <string name="last_name">Last name</string>
+    <string name="first_name">First name</string>
+    <string name="user_name">User name</string>
+    <string name="reg_password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="logging">Already have an account?</string>
+    <string name="sign_in">click here to sign in</string>
+
+    <string name="star_text">The Star</string>
+    <string name="nation_text">Daily Nation</string>
+    <string name="standard_text">The Standard</string>
+    <string name="taifa_text">Taifa Leo</string>
+    <string name="sports_text">Mwana Sporti</string>
+    <string name="people_text">Peoples Nation</string>
+    <string name="new_username">Please enter your username</string>
+    <string name="confirm_pass">Confirm your password</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="settings">Profile</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="newspapers">Highlights</string>
+    <string name="breaking_news">Top Headlines</string>
+    <string name="communicate">Communicate</string>
+    <string name="manual">Manual</string>
+    <string name="logout">Logout</string>
+    <string name="account">Account</string>
+    <string name="share">Share</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="sign_up">click here to create an account</string>
+    <string name="don_t_have_account">Don\'t have account?</string>
+    <string name="help">Help</string>
+    <string name="more_apps">More Apps</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="exit">Exit</string>
+    <string name="cancel">Cancel</string>
+    <string name="user_manual">The initial interface of mobile magazine shows Login, Register and exit menu</string>
+    <string name="reset_password1">Reset Password</string>
+    <string name="enter_new_password">Enter new password</string>
+    <string name="confirm_new_password">Confirm new password</string>
+    <string name="reg_contents">This interface allows the user to create an account, after you enter your details, click the register button</string>
+    <string name="log_contents">This interface prompts only the registered users to login, all registered users will be required to provide their usrname and password, after which click login button to access the dashboard. you can also reset your password incase you forgot</string>
+    <string name="con_contents">Enter your email address, then click confirm button. A link will be sent to your email account. Open the link to reset your password</string>
+</resources>

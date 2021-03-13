@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        app:showAsAction="always"
+        android:icon="@drawable/ic_exit"
+        android:id="@+id/action_exit"
+        android:title="@string/exit">
+
+    </item>
+    <item
+        android:id="@+id/action_dev"
+        android:title="Developer">
+
+    </item>
+    <item
+        android:id="@+id/action_more"
+        android:title="@string/more_apps">
+
+    </item>
+    <item
+        android:id="@+id/action_policy"
+        android:title="@string/privacy_policy">
+    </item>
+</menu>
